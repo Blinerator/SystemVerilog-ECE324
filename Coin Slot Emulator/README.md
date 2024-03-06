@@ -5,5 +5,5 @@ A sensor (13) is normally low, until light from a diode (11) is blocked by the c
 
 ![image](https://github.com/Blinerator/SystemVerilog-ECE324-/assets/107442543/26b77374-c48d-4827-b7c5-4530f90f4b2e)
 
-- CoinDetector.sv: Implements an 8-state finite state machine to determine coin.
+- CoinDetector.sv: Implements an 8-state finite state machine to determine coin (code up to line 74 was provided).
 - CoinDetectorTB.sv: Testbench for the above. Tests all input permutations and implements assertions if irregular outputs are detected.
